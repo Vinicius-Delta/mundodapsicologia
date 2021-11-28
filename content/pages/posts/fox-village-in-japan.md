@@ -11,7 +11,7 @@ excerpt: >-
   distinction between rooms and indoor and outdoor space.
 date: '2020-01-11'
 thumb_img_path: /images/Left-Right-Brain-Signals.gif
-thumb_img_alt: 'Rede '
+thumb_img_alt: Representação de um cérebro com váras conexões
 content_img_path: /images/psicologia foto.png
 seo:
   title: Fox Village In Japan
