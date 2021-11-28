@@ -359,7 +359,7 @@ models:
         label: Subtitle
         description: The text shown just below the post title
       - type: number
-        name: date
+        name: number
         label: Date
         required: true
       - type: image
