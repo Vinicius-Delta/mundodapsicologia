@@ -24,7 +24,7 @@ seo:
     - name: 'twitter:title'
       value: Quem somos
     - name: 'twitter:description'
-      value: A page about me and my work
+      value: Identificação dos membros da equipe que construíu esse site.
     - name: 'twitter:image'
       value: images/about.jpg
       relativeUrl: true
