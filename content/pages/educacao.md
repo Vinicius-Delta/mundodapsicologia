@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Sistema de Educação Superior
 subtitle: lorem-ipsum
 seo:
   title: ''
