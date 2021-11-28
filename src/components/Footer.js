@@ -23,7 +23,7 @@ export default class Footer extends React.Component {
                         ))}
                     </div>
                 )}
-                <Link id="to-top" className="to-top" href="#page">Para o ini <span className="icon-arrow-up" aria-hidden="true" /></Link>
+                <Link id="to-top" className="to-top" href="#page">Voltar para o topo <span className="icon-arrow-up" aria-hidden="true" /></Link>
             </footer>
         );
     }
