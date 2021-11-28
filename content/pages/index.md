@@ -24,7 +24,7 @@ seo:
     - name: 'twitter:title'
       value: O mundo da psicologia
     - name: 'twitter:description'
-      value: The preview of the Fjord theme
+      value: O mundo da psicologia
     - name: 'twitter:image'
       value: images/home.jpg
       relativeUrl: true
