@@ -1,5 +1,5 @@
 ---
-title: Bem vindo
+title: O mundo da psicolo
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
