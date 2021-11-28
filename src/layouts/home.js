@@ -20,13 +20,6 @@ export default class Home extends React.Component {
 
         return (
             <article key={index} className="post">
-                <header className="post-header">
-                    <h2 className="post-title">
-                        {title}
-                    </h2>
-                    <div className="post-meta">
-                    </div>
-                </header>
                 {thumbImage && (
                         <img className="thumbnail" src={withPrefix(thumbImage)} alt={thumbImageAlt} />
                 )}
