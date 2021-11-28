@@ -1,5 +1,5 @@
 ---
-title: O Mundo da psicologia
+title: O Mundo da Psicologia
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
