@@ -4,7 +4,7 @@ has_more_link: false
 more_link_text: Leia mais
 seo:
   title: O mundo da psicologia
-  description: The preview of the Fjord theme
+  description: O mundo da psicologia
   extra:
     - name: 'og:type'
       value: website
