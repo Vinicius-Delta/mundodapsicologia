@@ -209,7 +209,7 @@ models:
         name: has_social
         label: Enable Social Links
         description: Display social links on the left side
-        default: true
+        default: false
       - type: list
         name: social_links
         label: Social Links
