@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Sites de Interesse
 subtitle: lorem-ipsum
 seo:
   title: ''
