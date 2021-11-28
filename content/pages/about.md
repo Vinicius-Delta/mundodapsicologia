@@ -1,5 +1,5 @@
 ---
-title: Sobre
+title: Quem somos
 subtitle: This is a short page about me and my work
 img_path: /images/psicologia foto.png
 seo:
