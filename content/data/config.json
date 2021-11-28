@@ -50,7 +50,7 @@
             },
             {
                 "label": "Sites de Interesse",
-                "url": "#",
+                "url": "/sites-de-interesse",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
