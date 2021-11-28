@@ -23,16 +23,6 @@ export default class Home extends React.Component {
                 {thumbImage && (
                         <img className="thumbnail" src={withPrefix(thumbImage)} alt={thumbImageAlt} />
                 )}
-                {excerpt && (
-                    <div className="post-content">
-                        <p>{excerpt}</p>
-                    </div>
-                )}
-                {hasMoreLink && moreLinkText && (
-                    <p className="read-more">
-                        <Link className="read-more-link" href={postUrl}>{moreLinkText} <span className="icon-arrow-right" aria-hidden="true" /></Link>
-                    </p>
-                )}
             </article>
         );
     }
