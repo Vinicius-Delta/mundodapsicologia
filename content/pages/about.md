@@ -22,7 +22,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About Me
+      value: Quem somos
     - name: 'twitter:description'
       value: A page about me and my work
     - name: 'twitter:image'
