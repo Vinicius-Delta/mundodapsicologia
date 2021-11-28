@@ -42,7 +42,7 @@
             },
             {
                 "label": "Mercado de Trabalho",
-                "url": "#",
+                "url": "/mercado",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
