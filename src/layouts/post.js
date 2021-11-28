@@ -33,7 +33,6 @@ export default class Post extends React.Component {
                             <header className="post-header">
                                 <h1 className="post-title">{title}</h1>
                                 <div className="post-meta">
-                                    Published on <time className="published" dateTime={dateTimeAttr}>{formattedDate}</time>
                                 </div>
                             </header>
                             {subtitle && <div className="post-subtitle">{htmlToReact(subtitle)}</div>}
