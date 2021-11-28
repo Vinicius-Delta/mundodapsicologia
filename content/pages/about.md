@@ -13,7 +13,7 @@ seo:
       value: Quem somos
       keyName: property
     - name: 'og:description'
-      value: A page about me and my work
+      value: Identificação dos membros da equipe que construíu esse site.
       keyName: property
     - name: 'og:image'
       value: images/about.jpg
