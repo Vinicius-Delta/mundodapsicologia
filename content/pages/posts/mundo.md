@@ -41,5 +41,5 @@ seo:
       relativeUrl: true
 layout: post
 number: 1
-hide_header: true
+hide_header: false
 ---
