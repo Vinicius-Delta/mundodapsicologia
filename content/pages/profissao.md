@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Caracterização da Profissão
 subtitle: lorem-ipsum
 seo:
   title: ''
