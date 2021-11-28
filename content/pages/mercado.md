@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Mercado de Trabalho
 subtitle: lorem-ipsum
 seo:
   title: ''
