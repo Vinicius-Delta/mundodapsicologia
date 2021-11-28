@@ -361,6 +361,7 @@ models:
       - type: number
         name: number
         label: Number
+        required: true
       - type: image
         name: thumb_img_path
         label: Image (Blog Feed)
