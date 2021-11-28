@@ -34,7 +34,7 @@
             },
             {
                 "label": "Sistema de Educação Superior",
-                "url": "#",
+                "url": "/educacao",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
