@@ -63,5 +63,6 @@
     "footer": {
         "content": "O Mundo da Psicologia. 2021."
     },
-    "domain": "https://mundodapsicologia-39f31.netlify.app"
+    "domain": "https://mundodapsicologia-39f31.netlify.app",
+    "favicon": "/images/MUNDO PSICOLOGIA.png"
 }
