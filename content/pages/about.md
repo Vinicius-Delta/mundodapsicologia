@@ -4,7 +4,7 @@ subtitle: This is a short page about me and my work
 img_path: /images/psicologia foto.png
 seo:
   title: Quem somos
-  description: A page about me and my work
+  description: Identificação dos membros da equipe que construíu esse site.
   extra:
     - name: 'og:type'
       value: website
