@@ -34,6 +34,8 @@
         "has_social": true,
         "social_links": []
     },
-    "footer": {},
+    "footer": {
+        "content": "2021"
+    },
     "domain": "https://mundodapsicologia-39f31.netlify.app"
 }
