@@ -3,7 +3,7 @@ title: Início
 has_more_link: false
 more_link_text: Leia mais
 seo:
-  title: Stackbit Fjord Theme
+  title: O mundo da psicologia
   description: The preview of the Fjord theme
   extra:
     - name: 'og:type'
