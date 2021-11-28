@@ -360,7 +360,7 @@ models:
         description: The text shown just below the post title
       - type: number
         name: number
-        label: Date
+        label: Number
         required: true
       - type: image
         name: thumb_img_path
