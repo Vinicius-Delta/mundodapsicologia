@@ -330,6 +330,7 @@ models:
         name: subtitle
         label: Subtitle
         description: The text shown just below the page title
+        hidden: true
       - type: image
         name: img_path
         label: Background Image
