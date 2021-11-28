@@ -26,7 +26,7 @@ seo:
     - name: 'twitter:description'
       value: Identificação dos membros da equipe que construíu esse site.
     - name: 'twitter:image'
-      value: /images/IMAGENS PSICOLOGIA-8b7a9247.png
+      value: /images/MUNDO PSICOLOGIA-8d0a8dc6.png
       relativeUrl: true
 layout: page
 ---
