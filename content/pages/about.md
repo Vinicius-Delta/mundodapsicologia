@@ -16,7 +16,7 @@ seo:
       value: Identificação dos membros da equipe que construíu esse site.
       keyName: property
     - name: 'og:image'
-      value: images/about.jpg
+      value: /images/MUNDO PSICOLOGIA-8d0a8dc6.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
