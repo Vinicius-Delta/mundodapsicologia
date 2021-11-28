@@ -42,4 +42,9 @@ seo:
 layout: post
 number: 1
 hide_header: false
+excerpt: >-
+  Este espaço foi construído com a perspectiva de sistematizar os trabalhos da
+  Equipe de Aprendizagem responsável pelo estudo da profissão Psicologia, sob
+  responsabilidade dos alunos Caroline Santos Gentil Duplat, Kenny Boyd Machado
+  Campos e Rafael Athayde de Souza.
 ---
