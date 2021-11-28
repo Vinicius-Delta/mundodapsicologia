@@ -13,7 +13,7 @@ seo:
       value: O mundo da psicologia
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fjord theme
+      value: O mundo da psicologia
       keyName: property
     - name: 'og:image'
       value: images/home.jpg
